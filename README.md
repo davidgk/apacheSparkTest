@@ -1,4 +1,4 @@
-#Proyecto de Prueba para Spark y heroku para Java
+#Proyecto de Prueba: Apache Spark -  Heroku  c/Java
 
 
 ## Que incluye este proyecto ?
@@ -20,6 +20,8 @@ $PATH_DEL_PROYECTO>mvn heroku:deploy
 ### Si hay problemas como ver el log
 
 $PATH_DEL_PROYECTO>heroku logs --app sparkexampledgk
+
+### Esta URL sirve para pobar que todo anduvo correctamente.
 
 https://sparkexampledgk.herokuapp.com/recursete
 
